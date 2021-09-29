@@ -1,2 +1,2 @@
 # DriveControlApp
-Projeto de relatório desenvolvido com o uso de módulo Built-In e Pandas
+Nesse projeto, fazemos a manipulação de textos e aplicamos ferramentas da lib Pandas.
